@@ -4,25 +4,21 @@
              x:Class="HosxpUiPhone.MainPage">
     <FlexLayout Direction="Column">
         <VerticalStackLayout Padding="10" FlexLayout.Basis="400" BackgroundColor="Beige">
-            <Entry x:Name="nameEntryField" Placeholder="Name" />
-            <Entry x:Name="emailEntryField" Placeholder="Email" />
-            <Entry x:Name="mobileEntryField" Placeholder="Mobile" />
-            <Button x:Name="saveButton" Text="Save" Clicked="saveButton_Clicked" />
+            <Button x:Name="CallApiButton" Text="Call Api" Clicked="OnCallApiBtnClicked" />
         </VerticalStackLayout>
-        <ListView x:Name="listView" FlexLayout.Grow="1" HasUnevenRows="True" ItemTapped="listView_ItemTapped">
+        <ListView x:Name="listView" FlexLayout.Grow="1" HasUnevenRows="True">
             <ListView.ItemTemplate>
                 <DataTemplate>
                     <ViewCell>
                         <VerticalStackLayout Padding="5">
-                            <Label Text="{Binding CustomerName}" FontSize="17" FontAttributes="Bold" />
+                            <Label Text="{Binding ward1}" FontSize="17" FontAttributes="Bold" />
                             <Grid>
                                 <Grid.ColumnDefinitions>
                                     <ColumnDefinition Width="Auto" />
                                     <ColumnDefinition Width="*" />
                                     <ColumnDefinition Width="Auto" />
                                 </Grid.ColumnDefinitions>
-                                <Label Grid.Column="0" Text="{Binding Email}"/>
-                                <Label Grid.Column="2" Text="{Binding Mobile}" FontAttributes="Bold" />
+                                <Label Grid.Column="0" Text="{Binding name}"/>
                             </Grid>
                         </VerticalStackLayout>
                     </ViewCell>

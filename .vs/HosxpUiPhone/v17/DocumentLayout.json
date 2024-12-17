@@ -3,24 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\HosxpUiPhone\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FCAC4341-6491-4536-ADFC-3FD1B708FFAE}|HosxpUiPhone\\HosxpUiPhone.csproj|c:\\users\\admin\\desktop\\hosxpuiphone\\hosxpuiphone\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCAC4341-6491-4536-ADFC-3FD1B708FFAE}|HosxpUiPhone\\HosxpUiPhone.csproj|solutionrelative:hosxpuiphone\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FCAC4341-6491-4536-ADFC-3FD1B708FFAE}|HosxpUiPhone\\HosxpUiPhone.csproj|c:\\users\\admin\\desktop\\hosxpuiphone\\hosxpuiphone\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{FCAC4341-6491-4536-ADFC-3FD1B708FFAE}|HosxpUiPhone\\HosxpUiPhone.csproj|solutionrelative:hosxpuiphone\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCAC4341-6491-4536-ADFC-3FD1B708FFAE}|HosxpUiPhone\\HosxpUiPhone.csproj|c:\\users\\admin\\desktop\\hosxpuiphone\\hosxpuiphone\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCAC4341-6491-4536-ADFC-3FD1B708FFAE}|HosxpUiPhone\\HosxpUiPhone.csproj|solutionrelative:hosxpuiphone\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FCAC4341-6491-4536-ADFC-3FD1B708FFAE}|HosxpUiPhone\\HosxpUiPhone.csproj|c:\\users\\admin\\desktop\\hosxpuiphone\\hosxpuiphone\\ward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCAC4341-6491-4536-ADFC-3FD1B708FFAE}|HosxpUiPhone\\HosxpUiPhone.csproj|solutionrelative:hosxpuiphone\\ward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCAC4341-6491-4536-ADFC-3FD1B708FFAE}|HosxpUiPhone\\HosxpUiPhone.csproj|c:\\users\\admin\\desktop\\hosxpuiphone\\hosxpuiphone\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCAC4341-6491-4536-ADFC-3FD1B708FFAE}|HosxpUiPhone\\HosxpUiPhone.csproj|solutionrelative:hosxpuiphone\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FCAC4341-6491-4536-ADFC-3FD1B708FFAE}|HosxpUiPhone\\HosxpUiPhone.csproj|c:\\users\\admin\\desktop\\hosxpuiphone\\hosxpuiphone\\localdbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FCAC4341-6491-4536-ADFC-3FD1B708FFAE}|HosxpUiPhone\\HosxpUiPhone.csproj|solutionrelative:hosxpuiphone\\localdbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCAC4341-6491-4536-ADFC-3FD1B708FFAE}|HosxpUiPhone\\HosxpUiPhone.csproj|c:\\users\\admin\\desktop\\hosxpuiphone\\hosxpuiphone\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCAC4341-6491-4536-ADFC-3FD1B708FFAE}|HosxpUiPhone\\HosxpUiPhone.csproj|solutionrelative:hosxpuiphone\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FCAC4341-6491-4536-ADFC-3FD1B708FFAE}|HosxpUiPhone\\HosxpUiPhone.csproj|c:\\users\\admin\\desktop\\hosxpuiphone\\hosxpuiphone\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FCAC4341-6491-4536-ADFC-3FD1B708FFAE}|HosxpUiPhone\\HosxpUiPhone.csproj|solutionrelative:hosxpuiphone\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCAC4341-6491-4536-ADFC-3FD1B708FFAE}|HosxpUiPhone\\HosxpUiPhone.csproj|c:\\users\\admin\\desktop\\hosxpuiphone\\hosxpuiphone\\hosxpuiphone.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FCAC4341-6491-4536-ADFC-3FD1B708FFAE}|HosxpUiPhone\\HosxpUiPhone.csproj|solutionrelative:hosxpuiphone\\hosxpuiphone.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FCAC4341-6491-4536-ADFC-3FD1B708FFAE}|HosxpUiPhone\\HosxpUiPhone.csproj|c:\\users\\admin\\desktop\\hosxpuiphone\\hosxpuiphone\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,82 +54,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AppShell.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\HosxpUiPhone\\HosxpUiPhone\\AppShell.xaml.cs",
-              "RelativeDocumentMoniker": "HosxpUiPhone\\AppShell.xaml.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\HosxpUiPhone\\HosxpUiPhone\\AppShell.xaml.cs",
-              "RelativeToolTip": "HosxpUiPhone\\AppShell.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Ward.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\HosxpUiPhone\\HosxpUiPhone\\Ward.cs",
+              "RelativeDocumentMoniker": "HosxpUiPhone\\Ward.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\HosxpUiPhone\\HosxpUiPhone\\Ward.cs",
+              "RelativeToolTip": "HosxpUiPhone\\Ward.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T08:15:05.152Z",
+              "WhenOpened": "2024-12-17T02:33:08.325Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AppShell.xaml",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\HosxpUiPhone\\HosxpUiPhone\\AppShell.xaml",
-              "RelativeDocumentMoniker": "HosxpUiPhone\\AppShell.xaml",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\HosxpUiPhone\\HosxpUiPhone\\AppShell.xaml",
-              "RelativeToolTip": "HosxpUiPhone\\AppShell.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-16T08:14:28.864Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\HosxpUiPhone\\HosxpUiPhone\\App.xaml.cs",
-              "RelativeDocumentMoniker": "HosxpUiPhone\\App.xaml.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\HosxpUiPhone\\HosxpUiPhone\\App.xaml.cs",
-              "RelativeToolTip": "HosxpUiPhone\\App.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T08:14:04.273Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\HosxpUiPhone\\HosxpUiPhone\\App.xaml",
-              "RelativeDocumentMoniker": "HosxpUiPhone\\App.xaml",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\HosxpUiPhone\\HosxpUiPhone\\App.xaml",
-              "RelativeToolTip": "HosxpUiPhone\\App.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-16T07:46:21.44Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\HosxpUiPhone\\HosxpUiPhone\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "HosxpUiPhone\\MainPage.xaml.cs",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\HosxpUiPhone\\HosxpUiPhone\\MainPage.xaml.cs",
               "RelativeToolTip": "HosxpUiPhone\\MainPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAgwGMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-16T07:37:31.287Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainPage.xaml",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\HosxpUiPhone\\HosxpUiPhone\\MainPage.xaml",
               "RelativeDocumentMoniker": "HosxpUiPhone\\MainPage.xaml",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\HosxpUiPhone\\HosxpUiPhone\\MainPage.xaml",
               "RelativeToolTip": "HosxpUiPhone\\MainPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-12-16T07:33:08.663Z",
               "EditorCaption": ""
@@ -129,41 +98,101 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\HosxpUiPhone\\HosxpUiPhone\\Customer.cs",
-              "RelativeDocumentMoniker": "HosxpUiPhone\\Customer.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\HosxpUiPhone\\HosxpUiPhone\\Customer.cs",
-              "RelativeToolTip": "HosxpUiPhone\\Customer.cs",
+              "Title": "MainApplication.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\HosxpUiPhone\\HosxpUiPhone\\Platforms\\Android\\MainApplication.cs",
+              "RelativeDocumentMoniker": "HosxpUiPhone\\Platforms\\Android\\MainApplication.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\HosxpUiPhone\\HosxpUiPhone\\Platforms\\Android\\MainApplication.cs",
+              "RelativeToolTip": "HosxpUiPhone\\Platforms\\Android\\MainApplication.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T07:27:22.406Z",
+              "WhenOpened": "2024-12-17T01:53:23.196Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
+              "Title": "HosxpUiPhone.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\HosxpUiPhone\\HosxpUiPhone\\HosxpUiPhone.csproj",
+              "RelativeDocumentMoniker": "HosxpUiPhone\\HosxpUiPhone.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\HosxpUiPhone\\HosxpUiPhone\\HosxpUiPhone.csproj",
+              "RelativeToolTip": "HosxpUiPhone\\HosxpUiPhone.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-17T01:43:32.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "LocalDbService.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\HosxpUiPhone\\HosxpUiPhone\\LocalDbService.cs",
               "RelativeDocumentMoniker": "HosxpUiPhone\\LocalDbService.cs",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\HosxpUiPhone\\HosxpUiPhone\\LocalDbService.cs",
               "RelativeToolTip": "HosxpUiPhone\\LocalDbService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-16T07:23:51.835Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "MauiProgram.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\HosxpUiPhone\\HosxpUiPhone\\MauiProgram.cs",
               "RelativeDocumentMoniker": "HosxpUiPhone\\MauiProgram.cs",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\HosxpUiPhone\\HosxpUiPhone\\MauiProgram.cs",
               "RelativeToolTip": "HosxpUiPhone\\MauiProgram.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-16T07:22:15.903Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\HosxpUiPhone\\HosxpUiPhone\\App.xaml.cs",
+              "RelativeDocumentMoniker": "HosxpUiPhone\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\HosxpUiPhone\\HosxpUiPhone\\App.xaml.cs",
+              "RelativeToolTip": "HosxpUiPhone\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T08:14:04.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\HosxpUiPhone\\HosxpUiPhone\\App.xaml",
+              "RelativeDocumentMoniker": "HosxpUiPhone\\App.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\HosxpUiPhone\\HosxpUiPhone\\App.xaml",
+              "RelativeToolTip": "HosxpUiPhone\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-16T07:46:21.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\HosxpUiPhone\\HosxpUiPhone\\AppShell.xaml",
+              "RelativeDocumentMoniker": "HosxpUiPhone\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\HosxpUiPhone\\HosxpUiPhone\\AppShell.xaml",
+              "RelativeToolTip": "HosxpUiPhone\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-16T08:14:28.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\HosxpUiPhone\\HosxpUiPhone\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "HosxpUiPhone\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\HosxpUiPhone\\HosxpUiPhone\\AppShell.xaml.cs",
+              "RelativeToolTip": "HosxpUiPhone\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T08:15:05.152Z"
             }
           ]
         }

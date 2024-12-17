@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HosxpUiPhone")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+14152c851f9b25f9d3ef11fe7ef65826ac64e98a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+a5a540d4ef93274aa170a04a2ea4ebea7f76f4bc")]
 [assembly: System.Reflection.AssemblyProductAttribute("HosxpUiPhone")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HosxpUiPhone")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

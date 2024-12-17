@@ -940,3 +940,10 @@ C:\Users\Admin\Desktop\HosxpUiPhone\HosxpUiPhone\obj\Debug\net9.0-android\androi
 C:\Users\Admin\Desktop\HosxpUiPhone\HosxpUiPhone\obj\Debug\net9.0-android\android\assets\x86_64\SQLitePCLRaw.core.dll
 C:\Users\Admin\Desktop\HosxpUiPhone\HosxpUiPhone\obj\Debug\net9.0-android\android\assets\x86_64\SQLitePCLRaw.lib.e_sqlite3.android.dll
 C:\Users\Admin\Desktop\HosxpUiPhone\HosxpUiPhone\obj\Debug\net9.0-android\android\assets\x86_64\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Admin\Desktop\HosxpUiPhone\HosxpUiPhone\obj\Debug\net9.0-android\HosxpUiPhone.sourcelink.json
+C:\Users\Admin\Desktop\HosxpUiPhone\HosxpUiPhone\obj\Debug\net9.0-android\android\assets\x86_64\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Admin\Desktop\HosxpUiPhone\HosxpUiPhone\obj\Debug\net9.0-android\android\assets\x86_64\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\Admin\Desktop\HosxpUiPhone\HosxpUiPhone\obj\Debug\net9.0-android\android\assets\x86_64\Microsoft.Extensions.Diagnostics.dll
+C:\Users\Admin\Desktop\HosxpUiPhone\HosxpUiPhone\obj\Debug\net9.0-android\android\assets\x86_64\Microsoft.Extensions.Http.dll
+C:\Users\Admin\Desktop\HosxpUiPhone\HosxpUiPhone\obj\Debug\net9.0-android\android\assets\x86_64\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Admin\Desktop\HosxpUiPhone\HosxpUiPhone\obj\Debug\net9.0-android\android\assets\x86_64\Newtonsoft.Json.dll
